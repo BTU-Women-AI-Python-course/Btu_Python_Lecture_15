@@ -1,8 +1,8 @@
 ## Django 
 
 - **Override User Model** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/override_user_model.md
-- **User Registration**
-- **User Authentication**
+- **User Registration** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/user_registration.md
+- **User Login and Logout**
 - **Customizing Authentication**
 
  
