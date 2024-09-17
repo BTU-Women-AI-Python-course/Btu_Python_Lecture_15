@@ -2,8 +2,7 @@
 
 - **Override User Model** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/override_user_model.md
 - **User Registration** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/user_registration.md
-- **User Login and Logout**
-- **Customizing Authentication**
+- **User Login and Logout** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/user_login_logout.md
 
  
 ## 📚 Task: Implement Custom User and Authentication
