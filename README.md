@@ -3,6 +3,7 @@
 - **Override User Model** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/override_user_model.md
 - **User Registration** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/user_registration.md
 - **User Login and Logout** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_15/blob/main/user_login_logout.md
+- **built-in authentication views** - https://docs.djangoproject.com/en/5.1/topics/auth/default/#module-django.contrib.auth.views
 
  
 ## 📚 Task: Implement Custom User and Authentication
