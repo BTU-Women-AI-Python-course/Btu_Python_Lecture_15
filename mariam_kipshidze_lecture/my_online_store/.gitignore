@@ -1,0 +1,4 @@
+/media/
+/staticfiles/
+/db.sqlite3
+/my_online_store/settings/local.py
