@@ -4,6 +4,8 @@
 
 Django provides a built-in `AuthenticationForm` that you can use for login. You don't need to create a custom form for basic login functionality.
 
+**AuthenticationForm** source code: https://github.com/django/django/blob/c2c7dbb2f88ce8f0ef6d48a61b93866c9926349a/django/contrib/auth/forms.py#L313
+
 ### 2. Create the Login View
 
 Define the login view in `users/views.py`:
