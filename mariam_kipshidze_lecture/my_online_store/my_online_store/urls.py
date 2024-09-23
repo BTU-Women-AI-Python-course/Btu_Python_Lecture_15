@@ -21,8 +21,9 @@ from django.urls import path, include
 from my_online_store import settings
 
 urlpatterns = [
-    path('admin', admin.site.urls),
+    path('admin/', admin.site.urls),
     path('product/', include('product.urls')),
+    path('user/', include('user.urls')),
 ]
 
 if settings.DEBUG:
